@@ -1,0 +1,6 @@
+{
+  "name": "Nexgile FactoryIQ",
+  "description": "Enterprise Manufacturing Execution System (MES) featuring Executive Cockpit, Program Deep-Dive, Quality Intelligence with 8D CAPA workflows, and Shopfloor Work Order telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
